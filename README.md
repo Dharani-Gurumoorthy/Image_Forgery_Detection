@@ -1,9 +1,6 @@
 # Image_Forgery_Detection
 Image Forgery Detection using Transfer Learning Model like Inception V3 , ResNet 50 and CNN Model.
 
-# Lung Cancer Prediction using Chest Scan Images
-This repository contains a Python notebook that demonstrates the application of deep learning models (InceptionV3 and ResNet50) for predicting different types of lung cancer from chest scan images.
-
 # Dataset
 The dataset used in this project is available on Kaggle and can be accessed here "https://www.kaggle.com/datasets/sophatvathana/casia-dataset". It consists of chest scan images for lung cancer prediction.
 
